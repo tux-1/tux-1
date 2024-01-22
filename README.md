@@ -14,7 +14,7 @@ I'm Mourad Mohamed, a passionate Flutter developer from Cairo, Egypt. Welcome to
 
 ## 🤙 Get in Touch
 
-- LinkedIn: [Mourad Mohamed](https://www.linkedin.com/in/mourad-mohamed/)
+- LinkedIn: [https://www.linkedin.com/in/mourad-mohamed/](https://www.linkedin.com/in/mourad-mohamed/)
 - Discord: `@tuxedo.`
 - Email: [murad.hafez2@gmail.com](mailto:murad.hafez2@gmail.com)
 
