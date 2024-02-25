@@ -1,8 +1,6 @@
-# Hello, World! 👋
+## Hello there 👋
 
-I'm Mourad Mohamed, a passionate Flutter developer from Cairo, Egypt. Welcome to my GitHub profile!
-
-👨‍💻 I'm currently working on my portfolio and constantly exploring new technologies and tools.
+I'm Flutter developer in Cairo, Egypt. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
@@ -18,4 +16,4 @@ I'm Mourad Mohamed, a passionate Flutter developer from Cairo, Egypt. Welcome to
 - Discord: `@tuxedo.`
 - Email: [murad.hafez2@gmail.com](mailto:murad.hafez2@gmail.com)
 
-Thanks for stopping by! Feel free to connect and explore the exciting projects here.
+Thanks for stopping by! Feel free to connect and explore the projects here.
