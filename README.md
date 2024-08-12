@@ -48,3 +48,8 @@
 </div>
 
 ###
+
+## Help Palestine 🇵🇸
+
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
+
